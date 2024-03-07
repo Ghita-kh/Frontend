@@ -1,0 +1,5 @@
+numpy
+cv2
+pillow
+requests
+time
